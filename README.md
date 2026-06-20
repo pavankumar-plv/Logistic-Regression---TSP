@@ -24,13 +24,6 @@ pip install -r requirements.txt
 
 ## 🚀 Getting Started
 
-### 📂 Clone the Repository
-
-```bash
-git clone https://github.com/Venu419/Logistic-Regression.git
-cd Logistic-Regression
-```
-
 ### 📥 Install Dependencies
 
 ```bash
@@ -56,7 +49,7 @@ The app will open in your default browser at `http://localhost:8501`.
 ## 🌐 Live Demo
 
 Try the app live on Streamlit Cloud:
-[Titanic Survival Predictor](https://logistic-regression-titanic-survival-prediction.streamlit.app/) ✨
+[Titanic Survival Predictor (TSP)](https://logistic-regression-titanic-survival-prediction.streamlit.app/) ✨
 
 ## 💪 Advantages
 
@@ -79,5 +72,4 @@ Try the app live on Streamlit Cloud:
 
 ## 🙏 Acknowledgments
 
-- 🏆 The dataset is sourced from the famous Kaggle Titanic competition
 - ✨ Thanks to Streamlit for making data app creation seamless
