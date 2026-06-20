@@ -49,7 +49,7 @@ The app will open in your default browser at `http://localhost:8501`.
 ## 🌐 Live Demo
 
 Try the app live on Streamlit Cloud:
-[Titanic Survival Predictor (TSP)](https://logistic-regression-titanic-survival-prediction.streamlit.app/) ✨
+[Titanic Survival Predictor (TSP)](https://logistic-regression---tsp-nkigpnozrquwskhoctpiqz.streamlit.app/) ✨
 
 ## 💪 Advantages
 
